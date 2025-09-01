@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyakumar16&show_icons=true&locale=en&layout=compact" alt="amartyakumar16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartyakumar16&show_icons=true&locale=en" alt="amartyakumar16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartyakumar16&" alt="amartyakumar16" /></p>
